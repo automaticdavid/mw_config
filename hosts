@@ -1,2 +1,12 @@
-[dc1]
-localhost
+[dev]
+108.129.53.154
+
+[prod]
+99.80.246.57
+52.213.205.200
+
+[acme:children]
+dev
+prod
+
+
