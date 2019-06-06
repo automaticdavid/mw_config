@@ -1,0 +1,5 @@
+my_var_project_mw:
+  project: acme
+  env: prod
+  target: mw
+  value: 2

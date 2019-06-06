@@ -1,0 +1,5 @@
+my_var_project_web:
+  project: acme
+  env: dev
+  target: web
+  value: 1
