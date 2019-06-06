@@ -1,0 +1,10 @@
+---
+- name: Parsing multiple vars
+  gather_facts: no
+  hosts: localhost
+
+  tasks:
+
+    - name: display hostvars
+      debug: 
+        var: hostvars
