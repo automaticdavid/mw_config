@@ -4,3 +4,5 @@ my_var_project_web:
   target: web
   value: 1
 my_var_cadre_low: overriden
+my_var_cadre_high: overriden
+
