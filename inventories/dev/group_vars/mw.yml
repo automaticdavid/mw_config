@@ -2,4 +2,4 @@ my_var_project_mw:
   project: acme
   env: dev
   target: mw
-  value: 1
+  value: Angers
