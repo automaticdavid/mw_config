@@ -3,6 +3,6 @@ my_var_project_web:
   env: dev
   target: web
   value: 1
-my_var_cadre_low: overriden
-my_var_cadre_high: overriden
+my_var_cadre_low: 1
+my_var_cadre_high: 1
 
