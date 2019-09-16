@@ -2,4 +2,4 @@ my_var_project_web:
   project: acme
   env: prod
   target: web
-  value: 2
+  value: 3
