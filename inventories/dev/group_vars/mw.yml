@@ -1,5 +1,5 @@
 my_var_project_mw:
-  project: acme
+  project: DEVEL_ACMA
   env: dev
   target: mw
-  value: Paris
+  value: London
