@@ -1,0 +1,7 @@
+users:
+  alice: 
+    toto: titi
+    foo: bar
+  joe: 
+    toto: tutu
+    foo: baz
